@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikulvaghani
 - 👀 I’m interested in Android native applications using Java and koilin...
 - 🌱 I’m currently learning Laravel framework in PHP ...
-- 📫 you can send me direct message over Upwork to reach me
+- 📫 you can send me direct message over the Upwork here you can check
 https://www.upwork.com/freelancers/~019bdbef951ef66b7a
 
 ✅ 100% Client Recommendation
