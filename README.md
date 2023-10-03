@@ -7,7 +7,7 @@ https://www.upwork.com/freelancers/~019bdbef951ef66b7a
 ✅ 100% Client Recommendation
 ✅ Rewarded as 🏆 𝙏𝙤𝙥 𝙍𝙖𝙩𝙚𝙙 𝙋𝙡𝙪𝙨 🏆 by Upwork
 ✅ 11+ Client's Dream Projects (36+ projects offline and online) delivered.
-✅ 6+ Years of Industrial Experience.
+✅ 7+ Years of Industrial Experience.
 ✅ Senior Android developer/Backend Developer
 ✅ Excellent knowledge of Android/Java/Kotlin best practices and standard code style
 ✅ Experience with SCM tools, GIT, JIRA, Android Studio, ClearCase etc.
