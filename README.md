@@ -2,11 +2,11 @@
 - 👀 I’m interested in Android native applications using Java and koilin...
 - 🌱 I’m currently learning Laravel framework in PHP ...
 - 📫 you can send me direct message over the Upwork here you can check
-https://www.upwork.com/freelancers/~019bdbef951ef66b7a
+https://www.upwork.com/freelancers/nikulvaghani
 
 ✅ 100% Client Recommendation
 ✅ Rewarded as 🏆 𝙏𝙤𝙥 𝙍𝙖𝙩𝙚𝙙 𝙋𝙡𝙪𝙨 🏆 by Upwork
-✅ 11+ Client's Dream Projects (36+ projects offline and online) delivered.
+✅ 19+ Client's Dream Projects (36+ projects offline and online) delivered.
 ✅ 7+ Years of Industrial Experience.
 ✅ Senior Android developer/Backend Developer
 ✅ Excellent knowledge of Android/Java/Kotlin best practices and standard code style
